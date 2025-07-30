@@ -3,6 +3,12 @@
 ## Introduction
 This report presents the findings from an exploratory data analysis (EDA) conducted on a cryptocurrency dataset, as detailed in the `CryptoCurrency_EDA.ipynb` Jupyter Notebook. The dataset contains historical data on various cryptocurrencies, including their names, symbols, dates, high, low, open, close prices, trading volumes, and market capitalizations. The analysis focuses on identifying key trends, patterns, and insights about the market performance of these cryptocurrencies, with a particular emphasis on the top-performing assets by market capitalization.
 
+
+
+![image alt](https://github.com/Raka-Deb/Crypto-Currency-Data-Analysis-/blob/defdc19a9eccb2b0340d3efcdbf5957800cc953b/Crypto.webp)
+
+
+
 The primary objectives of this analysis are:
 - To identify the top cryptocurrencies by market capitalization.
 - To analyze the market cap trends and price movements of the top cryptocurrencies.
